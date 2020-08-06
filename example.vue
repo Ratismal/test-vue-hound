@@ -1,7 +1,7 @@
 <template>
   <div
-    :id="id"
     ref="reference"
+    :id="id"
   />  
 </template>
 
